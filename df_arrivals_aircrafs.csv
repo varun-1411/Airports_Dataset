@@ -1,0 +1,333 @@
+Time,Flight_no,Departure,Airlines ,Aircraft
+00:05:00,AI504,Delhi (DEL),Air India,32N
+00:05:00,I51130,Cochin (COK),AirAsia India,A320 
+00:05:00,SQ512,Singapore (SIN),Singapore Airlines,359
+00:10:00,SG534,Delhi (DEL),SpiceJet,B738 
+00:15:00,6E6505,Hyderabad (HYD),IndiGo,A20N 
+00:20:00,I5978,Visakhapatnam (VTZ),AirAsia India,A20N 
+00:25:00,I5673,Guwahati (GAU),AirAsia India,A20N 
+00:25:00,QP1541,Kolkata (CCU),Akasa Air,7M8
+00:25:00,6E6338,Pune (PNQ),IndiGo,A21N 
+00:30:00,6E6744,Indore (IDR),IndiGo,A20N 
+00:35:00,6E6806,Goa (GOI),IndiGo,A21N 
+00:35:00,6E2131,Delhi (DEL),IndiGo,A21N 
+00:40:00,I51784,Mumbai (BOM),AirAsia India,A320 
+00:40:00,SG393,Delhi (DEL),SpiceJet,B738 
+00:50:00,6E5125,Mumbai (BOM),IndiGo,A21N 
+00:50:00,6E6627,Thiruvananthapuram (TRV),IndiGo,A21N 
+00:50:00,I5976,Pune (PNQ),AirAsia India,A320 
+01:00:00,6E949,Hyderabad (HYD),IndiGo,A20N 
+01:15:00,6E6354,Lucknow (LKO),IndiGo,A21N 
+01:15:00,I5472,Goa (GOI),AirAsia India,A320 
+01:25:00,LH754,Frankfurt (FRA),Lufthansa,B748 
+01:35:00,I51534,Delhi (DEL),AirAsia India,A20N 
+01:40:00,6E6565,Delhi (DEL),IndiGo,A21N 
+01:40:00,QP1318,Pune (PNQ),Akasa Air,7M8
+01:45:00,QP1409,Delhi (DEL),Akasa Air,7M8
+02:00:00,6E996,Ahmedabad (AMD),IndiGo,A21N 
+02:15:00,6E6406,Pune (PNQ),IndiGo,A21N 
+02:20:00,QP1103,Mumbai (BOM),Akasa Air,7M8
+02:20:00,9I520,Hyderabad (HYD),Alliance Air,AT7
+02:25:00,QR572,Doha (DOH),Qatar Airways,77W
+02:40:00,6E6953,Mumbai (BOM),IndiGo,A20N 
+02:40:00,SG8143,Delhi (DEL),SpiceJet,B738 
+02:40:00,6E1302,Doha (DOH),IndiGo,A20N 
+02:45:00,EK568,Dubai (DXB),Emirates,388
+03:15:00,EY216,Abu Dhabi (AUH),Etihad Airways,B789 
+03:20:00,I5975,Pune (PNQ),AirAsia India,A320 
+03:40:00,IX2992,Mumbai (BOM),Air India Express,738
+03:50:00,G9496,Sharjah (SHJ),Air Arabia,320
+03:55:00,GF282,Bahrain (BAH),Gulf Air,A320 
+04:10:00,6E1486,Dubai (DXB),IndiGo,A20N 
+04:30:00,6E338,Pune (PNQ),IndiGo,A21N 
+04:45:00,BA119,London (LHR),British Airways (GREAT Festival of Creativity),B772 
+05:50:00,AI621,Mumbai (BOM),Air India,321
+05:55:00,6E6336,Pune (PNQ),IndiGo,A21N 
+06:25:00,AI514,Delhi (DEL),Air India,319
+06:25:00,6E702,Cochin (COK),IndiGo,A21N 
+06:30:00,BZ403,Delhi (DEL),Blue Dart Aviation,757
+06:45:00,BZ201,Mumbai (BOM),Blue Dart Aviation,757
+06:45:00,6E887,Hyderabad (HYD),IndiGo,A20N 
+06:45:00,6E2067,Delhi (DEL),IndiGo,A21N 
+06:50:00,6E6422,Ahmedabad (AMD),IndiGo,A20N 
+06:50:00,6E6438,Kolkata (CCU),IndiGo,A20N 
+06:55:00,I51576,Goa (GOI),AirAsia India,A20N 
+07:20:00,6E1006,Singapore (SIN),IndiGo,A21N 
+07:30:00,IX9501,Delhi (DEL),Air India Express (Qutb Minar-Jantar Mantar),B738 
+07:40:00,I51982,Cochin (COK),AirAsia India,A320 
+07:45:00,UK845,Mumbai (BOM),Vistara,321
+07:50:00,6E255,Mangalore (IXE),IndiGo,A20N 
+07:50:00,6E5352,Mumbai (BOM),IndiGo,A20N 
+07:55:00,6E701,Indore (IDR),IndiGo,A20N 
+08:00:00,6E728,Cochin (COK),IndiGo,A20N 
+08:10:00,6E839,Jaipur (JAI),IndiGo,A20N 
+08:15:00,6E771,Kolkata (CCU),IndiGo,A20N 
+08:15:00,6E7202,Kozhikode (CCJ),IndiGo,AT76 
+08:20:00,I5819,Pune (PNQ),AirAsia India,A20N 
+08:25:00,6E619,Hyderabad (HYD),IndiGo,A320 
+08:25:00,BZ643,Chennai (MAA),Blue Dart Aviation,737
+08:30:00,6E797,Chennai (MAA),IndiGo,A20N 
+08:35:00,6E6612,Delhi (DEL),IndiGo,A320 
+08:40:00,AI603,Mumbai (BOM),Air India,32N
+08:40:00,6E921,Goa (GOX),IndiGo,A21N 
+08:40:00,6E5296,Mumbai (BOM),IndiGo,A20N 
+08:50:00,UK851,Mumbai (BOM),Vistara,320
+08:55:00,EK564,Dubai (DXB),Emirates,77W
+08:55:00,6E391,Pune (PNQ),IndiGo,A21N 
+09:00:00,AI803,Delhi (DEL),Air India,321
+09:05:00,UK811,Delhi (DEL),Vistara,320
+09:05:00,6E475,Coimbatore (CJB),IndiGo,32Q
+09:10:00,6E7233,Hubli (HBX),IndiGo,AT76 
+09:15:00,6E287,Visakhapatnam (VTZ),IndiGo,A21N 
+09:15:00,6E7245,Tiruchirapalli (TRZ),IndiGo,AT7
+09:20:00,QR8694,Doha (DOH),Qatar Airways,77X
+09:20:00,6E496,Kolkata (CCU),IndiGo,A20N 
+09:30:00,6E6293,Mumbai (BOM),IndiGo,A20N 
+09:45:00,6E393,Bhubaneswar (BBI),IndiGo,A20N 
+09:50:00,6E295,Cochin (COK),IndiGo,32N
+09:50:00,6E2403,Delhi (DEL),IndiGo,A21N 
+09:50:00,6E6137,Chennai (MAA),IndiGo,32A
+09:55:00,UK898,Hyderabad (HYD),Vistara,320
+10:05:00,6E7203,Vijayawada (VGA),IndiGo,AT7
+10:10:00,6E7257,Madurai (IXM),IndiGo,AT7
+10:15:00,I51622,Ranchi (IXR),AirAsia India,A320 
+10:15:00,SV866,Jeddah (JED),Saudia,A333 
+10:15:00,6E7729,Kannur (CNN),IndiGo,AT7
+10:20:00,6E909,Nagpur (NAG),IndiGo,32Q
+10:20:00,6E5347,Mangalore (IXE),IndiGo,32N
+10:30:00,6E6066,Hyderabad (HYD),IndiGo,32Q
+10:30:00,6E6799,Ranchi (IXR),IndiGo,32N
+10:35:00,6E7113,Rajahmundry (RJA),IndiGo,AT7
+10:40:00,I5740,Delhi (DEL),AirAsia India,A320 
+10:40:00,MH104,Kuala Lumpur (KUL),Malaysia Airlines,738
+10:45:00,6E308,Delhi (DEL),IndiGo,32Q
+10:45:00,6E358,Mangalore (IXE),IndiGo,32Q
+10:50:00,UK815,Delhi (DEL),Vistara,320
+10:50:00,UK863,Mumbai (BOM),Vistara,320
+10:50:00,6E144,Varanasi (VNS),IndiGo,32Q
+10:55:00,AI813,Delhi (DEL),Air India,321
+10:55:00,SQ508,Singapore (SIN),Singapore Airlines,7M8
+11:00:00,I51536,Kolkata (CCU),AirAsia India,A320 
+11:00:00,6E247,Patna (PAT),IndiGo,32N
+11:05:00,QP1110,Mumbai (BOM),Akasa Air,7M8
+11:10:00,AI639,Mumbai (BOM),Air India,321
+11:10:00,6E6542,Guwahati (GAU),IndiGo,32A
+11:15:00,6E6634,Chandigarh (IXC),IndiGo,32Q
+11:20:00,I51565,Bhubaneswar (BBI),AirAsia India,A320 
+11:20:00,6E764,Kolkata (CCU),IndiGo,32N
+11:25:00,AI515,Hyderabad (HYD),Air India,319
+11:25:00,6E823,Ahmedabad (AMD),IndiGo,32Q
+11:35:00,6E5212,Mumbai (BOM),IndiGo,32Q
+11:40:00,6E703,Bhopal (BHO),IndiGo,32Q
+11:40:00,6E6482,Cochin (COK),IndiGo,32N
+11:45:00,I51781,Guwahati (GAU),AirAsia India,A20N 
+11:45:00,6E325,Lucknow (LKO),IndiGo,32A
+11:50:00,UK801,Delhi (DEL),Vistara,320
+11:50:00,6E406,Raipur (RPR),IndiGo,32N
+11:55:00,9I895,Hyderabad (HYD),Alliance Air,AT7
+12:05:00,6E2069,Delhi (DEL),IndiGo,32N
+12:10:00,I51453,Kolkata (CCU),AirAsia India,A320 
+12:10:00,9I502,Vijayawada (VGA),Alliance Air,AT7
+12:15:00,6E6892,Chennai (MAA),IndiGo,32N
+12:25:00,I51426,Lucknow (LKO),AirAsia India,A320 
+12:25:00,6E7732,Shivamogga (RQY),IndiGo,AT7
+12:30:00,AI506,Delhi (DEL),Air India,32N
+12:30:00,I51529,Visakhapatnam (VTZ),AirAsia India,A320 
+12:30:00,SG328,Kolkata (CCU),SpiceJet,737
+12:35:00,6E445,Siliguri (IXB),IndiGo,32A
+12:40:00,6E172,Mangalore (IXE),IndiGo,32A
+12:40:00,6E6523,Ahmedabad (AMD),IndiGo,32N
+12:50:00,SG2928,Gwalior (GWL),SpiceJet,DH8
+12:50:00,6E196,Cochin (COK),IndiGo,32N
+12:50:00,6E661,Thiruvananthapuram (TRV),IndiGo,32N
+12:50:00,6E7286,Belgaum (IXG),IndiGo,AT7
+13:00:00,6E5069,Mumbai (BOM),IndiGo,32Q
+13:10:00,6E6567,Hyderabad (HYD),IndiGo,32Q
+13:25:00,6E6584,Goa (GOX),IndiGo,32Q
+13:30:00,I5972,Cochin (COK),AirAsia India,A320 
+13:35:00,6E6797,Delhi (DEL),IndiGo,32Q
+13:40:00,6E7223,Madurai (IXM),IndiGo,AT7
+13:45:00,I5942,Jaipur (JAI),AIX Connect,320
+13:45:00,QP1373,Siliguri (IXB),Akasa Air,7M8
+13:50:00,IX1613,Jaipur (JAI),Air India Express,738
+13:50:00,S5132,Jamnagar (JGA),Star Air,ER4
+13:50:00,6E6379,Allahabad (IXD),IndiGo,32Q
+13:50:00,S5131,Jamnagar (JGA),Star Air,ERJ
+14:05:00,WY283,Muscat (MCT),Oman Air,332
+14:05:00,6E6162,Patna (PAT),IndiGo,32N
+14:10:00,I5820,Ranchi (IXR),AirAsia India,A20N 
+14:15:00,6E5382,Mumbai (BOM),IndiGo,32Q
+14:20:00,9I506,Cochin (COK),Alliance Air,AT7
+14:30:00,S5118,Gulbarga (GBI),Star Air,ER4
+14:30:00,6E1056,Bangkok (BKK),IndiGo,32Q
+14:35:00,6E7072,Vijayawada (VGA),IndiGo,AT7
+14:35:00,S5159,Gulbarga (GBI),Star Air,ERJ
+14:40:00,SG497,Patna (PAT),SpiceJet,737
+14:40:00,6E6383,Delhi (DEL),IndiGo,32Q
+14:45:00,6E6147,Thiruvananthapuram (TRV),IndiGo,32A
+15:00:00,6E6609,Shirdi (SAG),IndiGo,32N
+15:05:00,I51983,Siliguri (IXB),AirAsia India,A320 
+15:10:00,6E6605,Chennai (MAA),IndiGo,32Q
+15:10:00,QP1625,Mumbai (BOM),Akasa Air,7M8
+15:20:00,QF67,Sydney (SYD),Qantas,332
+15:20:00,SG3999,Puducherry (PNY),SpiceJet,DH8
+15:20:00,6E455,Kolkata (CCU),IndiGo,32Q
+15:25:00,6E6992,Durgapur (RDP),IndiGo,32Q
+15:25:00,3U9333,Chongqing (CKG),Sichuan Airlines,33F
+15:35:00,I51543,Hyderabad (HYD),AirAsia India,A20N 
+15:35:00,6E453,Siliguri (IXB),IndiGo,32N
+15:40:00,I51455,Goa (GOI),AirAsia India,A320 
+15:45:00,6E337,Raipur (RPR),IndiGo,32Q
+15:45:00,6E6536,Bhubaneswar (BBI),IndiGo,32Q
+15:50:00,6E381,Goa (GOI),IndiGo,32N
+15:55:00,UK882,Goa (GOI),Vistara,320
+15:55:00,6E6012,Kanpur (KNU),IndiGo,32A
+15:55:00,6E7258,Tirupati (TIR),IndiGo,AT7
+16:00:00,6E7106,Kadapa (CDP),IndiGo,AT7
+16:00:00,6E7448,Kolhapur (KLH),IndiGo,AT7
+16:05:00,6E1168,Colombo (CMB),IndiGo,32N
+16:05:00,6E7279,Tiruchirapalli (TRZ),IndiGo,AT7
+16:10:00,6E422,Visakhapatnam (VTZ),IndiGo,32N
+16:10:00,6E2514,Delhi (DEL),IndiGo,32N
+16:15:00,QP1384,Bhubaneswar (BBI),Akasa Air,7M8
+16:20:00,AI502,Delhi (DEL),Air India,321
+16:20:00,QP1397,Goa (GOX),Akasa Air,7M8
+16:25:00,6E6257,Kolkata (CCU),IndiGo,32A
+16:30:00,RA225,Kathmandu (KTM),Nepal Airlines,320
+16:30:00,6E6128,Jodhpur (JDH),IndiGo,32Q
+16:30:00,9I510,Gulbarga (GBI),Alliance Air,AT7
+16:40:00,6E5294,Mumbai (BOM),IndiGo,32Q
+16:45:00,UK819,Delhi (DEL),Vistara,321
+16:50:00,6E7182,Tuticorin (TCR),IndiGo,AT7
+16:55:00,6E6508,Rajkot (HSR),IndiGo,32A
+17:00:00,6E152,Port Blair (IXZ),IndiGo,32N
+17:05:00,6E758,Ahmedabad (AMD),IndiGo,32Q
+17:05:00,6E968,Cochin (COK),IndiGo,32Q
+17:05:00,6E6534,Bareilly (BEK),IndiGo,32N
+17:10:00,6E6402,Indore (IDR),IndiGo,32N
+17:25:00,6E388,Mangalore (IXE),IndiGo,32N
+17:30:00,UK512,Goa (GOX),Vistara,320
+17:30:00,6E6754,Nagpur (NAG),IndiGo,32N
+17:35:00,UK756,Guwahati (GAU),Vistara,320
+17:40:00,6E929,Chennai (MAA),IndiGo,32N
+17:40:00,9I528,Vidyanagar (VDY),Alliance Air,AT7
+17:45:00,S5160,Bidar (IXX),Star Air,ER4
+17:45:00,UK853,Mumbai (BOM),Vistara,320
+17:45:00,6E517,Aurangabad (IXU),IndiGo,32N
+17:55:00,6E7423,Vijayawada (VGA),IndiGo,AT7
+18:05:00,S5151,Bidar (IXX),Star Air,ERJ
+18:10:00,SG4004,Shirdi (SAG),SpiceJet,DH8
+18:10:00,6E6319,Hyderabad (HYD),IndiGo,32Q
+18:15:00,QP1365,Pune (PNQ),Akasa Air,7M8
+18:15:00,6E1128,Male (MLE),IndiGo,32Q
+18:15:00,QP1401,Lucknow (LKO),Akasa Air,7M8
+18:20:00,UK658,Chandigarh (IXC),Vistara,320
+18:20:00,6E781,Delhi (DEL),IndiGo,32Q
+18:25:00,AI607,Mumbai (BOM),Air India,321
+18:25:00,I51531,Siliguri (IXB),AirAsia India,A320 
+18:35:00,AI815,Delhi (DEL),Air India,321
+18:35:00,6E532,Coimbatore (CJB),IndiGo,32Q
+18:35:00,6E5221,Mumbai (BOM),IndiGo,32Q
+18:45:00,UK817,Delhi (DEL),Vistara,321
+18:55:00,6E435,Lucknow (LKO),IndiGo,32N
+19:00:00,6E525,Agartala (IXA),IndiGo,32Q
+19:05:00,6E6417,Hyderabad (HYD),IndiGo,32N
+19:05:00,6E7232,Rajahmundry (RJA),IndiGo,AT7
+19:10:00,6E141,Chennai (MAA),IndiGo,32A
+19:10:00,6E412,Udaipur (UDR),IndiGo,32Q
+19:15:00,UK849,Mumbai (BOM),Vistara,320
+19:15:00,6E478,Amritsar (ATQ),IndiGo,32N
+19:20:00,EK566,Dubai (DXB),Emirates,77W
+19:20:00,I5991,Kolkata (CCU),AirAsia India,A320 
+19:20:00,6E757,Kolkata (CCU),IndiGo,32A
+19:25:00,SG496,Darbhanga (DBR),SpiceJet,7M8
+19:30:00,6E347,Dehradun (DED),IndiGo,32A
+19:35:00,6E6614,Chandigarh (IXC),IndiGo,32Q
+19:35:00,6E7357,Madurai (IXM),IndiGo,AT7
+19:40:00,EY238,Abu Dhabi (AUH),Etihad Airways,B789 
+19:45:00,6E7364,Kannur (CNN),IndiGo,AT7
+19:45:00,QP1139,Mumbai (BOM),Akasa Air,7M8
+19:50:00,QP1324,Guwahati (GAU),Akasa Air,7M8
+19:50:00,I55002,Delhi (DEL),AirAsia India,A320 
+19:55:00,I51563,Bhubaneswar (BBI),AIX Connect,320
+19:55:00,6E808,Vadodara (BDQ),IndiGo,32Q
+20:00:00,6E2487,Delhi (DEL),IndiGo,32Q
+20:05:00,6E979,Raipur (RPR),IndiGo,32Q
+20:10:00,UL171,Colombo (CMB),SriLankan Airlines,320
+20:10:00,6E7451,Vijayawada (VGA),IndiGo,AT7
+20:15:00,AI807,Delhi (DEL),Air India,319
+20:15:00,6E5067,Mumbai (BOM),IndiGo,32Q
+20:20:00,6E189,Chennai (MAA),IndiGo,32Q
+20:25:00,AI641,Mumbai (BOM),Air India,320
+20:30:00,UK813,Delhi (DEL),Vistara,320
+20:30:00,6E6055,Pune (PNQ),IndiGo,32N
+20:35:00,QP1306,Mumbai (BOM),Akasa Air,7M8
+20:35:00,6E691,Thiruvananthapuram (TRV),IndiGo,32Q
+20:35:00,6E776,Visakhapatnam (VTZ),IndiGo,32A
+20:40:00,I5974,Hyderabad (HYD),AIX Connect,320
+20:40:00,6E7239,Belgaum (IXG),IndiGo,AT7
+20:45:00,I52991,Bhubaneswar (BBI),AIX Connect,320
+20:50:00,9I548,Goa (GOI),Alliance Air,AT7
+20:55:00,I51427,Pune (PNQ),AIX Connect,320
+20:55:00,UK865,Mumbai (BOM),Vistara,320
+20:55:00,6E556,Jaipur (JAI),IndiGo,32A
+21:00:00,6E6251,Kolkata (CCU),IndiGo,32Q
+21:05:00,6E6922,Cochin (COK),IndiGo,32N
+21:10:00,6E316,Guwahati (GAU),IndiGo,32A
+21:15:00,6E2244,Mumbai (BOM),IndiGo,32Q
+21:20:00,599999999999999987770226501252229102664277671120104991240579271374469072871336666021702867666237591047161506834977743271330105855241828156911336867952047435162585312965186335550759501824,Patna (PAT),IndiGo,32N
+21:25:00,S5152,Hyderabad (HYD),Star Air,ER4
+21:25:00,S5207,Hyderabad (HYD),Star Air,ERJ
+21:30:00,I5554,Kolkata (CCU),AIX Connect,320
+21:40:00,UK894,Hyderabad (HYD),Vistara,320
+21:45:00,I5670,Mumbai (BOM),AIX Connect,320
+21:45:00,UK507,Mumbai (BOM),Vistara,320
+21:50:00,SQ510,Singapore (SIN),Singapore Airlines,359
+21:50:00,6E6622,Delhi (DEL),IndiGo,32Q
+21:55:00,QP1369,Cochin (COK),Akasa Air,7M8
+21:55:00,9I522,Cochin (COK),Alliance Air,AT7
+22:00:00,6E378,Kozhikode (CCJ),IndiGo,32N
+22:00:00,6E6481,Ahmedabad (AMD),IndiGo,32Q
+22:05:00,6E214,Bhopal (BHO),IndiGo,32N
+22:05:00,6E5256,Mumbai (BOM),IndiGo,32N
+22:10:00,6E6886,Pune (PNQ),IndiGo,32N
+22:15:00,I51518,Hyderabad (HYD),AIX Connect,320
+22:15:00,QP1341,Mumbai (BOM),Akasa Air,7M8
+22:25:00,QP1135,Guwahati (GAU),Akasa Air,7M8
+22:25:00,6E6314,Kolkata (CCU),IndiGo,32N
+22:25:00,QP1551,Pune (PNQ),Akasa Air,7M8
+22:30:00,6E593,Chandigarh (IXC),IndiGo,32A
+22:30:00,6E5355,Coimbatore (CJB),IndiGo,32Q
+22:35:00,AI512,Delhi (DEL),Air India,319
+22:35:00,I5992,Cochin (COK),AIX Connect,320
+22:35:00,SG457,Mumbai (BOM),SpiceJet,737
+22:40:00,FD137,Bangkok (DMK),Thai AirAsia,320
+22:40:00,IX1229,Hyderabad (HYD),Air India Express,738
+22:40:00,UK809,Delhi (DEL),Vistara,320
+22:40:00,6E472,Cochin (COK),IndiGo,32N
+22:45:00,6E6859,Mangalore (IXE),IndiGo,32A
+22:50:00,6E7389,Madurai (IXM),IndiGo,AT7
+22:55:00,QP1424,Varanasi (VNS),Akasa Air,7M8
+22:55:00,6E7378,Hubli (HBX),IndiGo,AT7
+23:00:00,6E7133,Vijayawada (VGA),IndiGo,AT7
+23:05:00,6E2302,Delhi (DEL),IndiGo,32Q
+23:05:00,6E5385,Chennai (MAA),IndiGo,32Q
+23:05:00,6E7447,Kannur (CNN),IndiGo,AT7
+23:10:00,6E611,Bhubaneswar (BBI),IndiGo,32N
+23:10:00,6E6298,Goa (GOI),IndiGo,32A
+23:15:00,I5821,Chennai (MAA),AIX Connect,320
+23:15:00,UK857,Mumbai (BOM),Vistara,320
+23:15:00,6E5388,Mumbai (BOM),IndiGo,32N
+23:20:00,QP1326,Ahmedabad (AMD),Akasa Air,7M8
+23:20:00,UK807,Delhi (DEL),Vistara,320
+23:25:00,TG325,Bangkok (BKK),Thai Airways,359
+23:30:00,AF194,Paris (CDG),Air France,332
+23:35:00,I51569,Surat (STV),AIX Connect,320
+23:35:00,QP1350,Delhi (DEL),Akasa Air,7M8
+23:40:00,MH192,Kuala Lumpur (KUL),Malaysia Airlines,738
+23:40:00,6E499,Varanasi (VNS),IndiGo,32Q
+23:40:00,6E2338,Delhi (DEL),IndiGo,32N
+23:45:00,BZ102,Chennai (MAA),Blue Dart Aviation,757
+23:45:00,6E7166,Tiruchirapalli (TRZ),IndiGo,AT7
+23:50:00,6E487,Kolkata (CCU),IndiGo,32A
+23:55:00,6E6803,Nagpur (NAG),IndiGo,32Q
